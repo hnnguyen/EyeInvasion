@@ -1,0 +1,49 @@
+Files that are required for the game to run are: 
+
+/game folder:
+	main.js
+
+/game/entities/ folder:
+	bird.js
+	eye_boss.js
+	eye_dynamic.js
+	eye_static.js
+	health.js
+	levelexit.js
+	levelexit2.js
+	life.js
+	player.js
+	player2.js
+
+/game/levels/ folder:
+	level1.js
+	level2.js
+	level3.js
+	level4.js
+
+/media/ folder:
+	bird.png
+	bullet.png
+	deathray.png
+	enenmylaser.png
+	eye_boss.png
+	eye_dynamic.png
+	eye_static.png
+	font.png
+	gameover.png
+	health.png
+	laser.png
+	Level1Tile.png
+	Level2Tile.png
+	Level3Tile.png
+	Level4Tile.png
+	life.png
+	player.png
+	startscreen.png
+	vertlaser.png
+	verlaserboss.png
+
+Folders that are impactjs related are required for the game to run:
+	/lib/impact/
+	/lib/weltmeister/
+	/tools/
